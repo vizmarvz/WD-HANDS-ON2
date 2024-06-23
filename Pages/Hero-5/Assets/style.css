@@ -8,7 +8,7 @@ body, html {
     color: white;
     background-color: #000;
     overflow: hidden;
-    background-image: url("/Pages/Hero-5/Assets/Img/FAJ-HOUSE.jpg");
+    background-image: url("../../Hero-5/Assets/Img/FAJ-HOUSE.jpg");
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
