@@ -8,7 +8,7 @@ body, html {
     color: white;
     background-color: #000;
     overflow: hidden;
-    background-image: url("../../Hero-1/Assets/Img/ICE-BG.jpg");
+    background-image: url("../Assets/Img/ICE-BG.jpg");
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
